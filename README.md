@@ -30,3 +30,7 @@ Contributing
 This project has been re-published on GitHub to make contributing easier. Feel free to fork and modify this script.
 
 The [Google Code project](https://code.google.com/p/apt-cyg/) has a list of open issues.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rcmdnk/apt-cyg-1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
